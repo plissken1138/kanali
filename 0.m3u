@@ -1,4 +1,4 @@
-#EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20240520T222740SQUARE.png" tvg-chno="1250" group-title="United States" , Paramount Movie Channel
+#EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20240520T222740SQUARE.png" tvg-chno="1250" group-title="" , Paramount Movie Channel
 https://jmp2.uk/SamsungTVPlus/USAJ26000054W.m3u8
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="" ,Paramount Plus Picks (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
@@ -18,11 +18,9 @@ https://lnc-tubi-originals.tubi.video/index.m3u8
 http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cult Classic Movie Theater (1080p)
 https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
-#EXTINF:-1 channel-id="samsung-US18000163F" tvg-id="US18000163F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240611T050317SQUARE.png" tvg-chno="1237" group-title="United States" , Miramax Channel
+#EXTINF:-1 channel-id="samsung-US18000163F" tvg-id="US18000163F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240611T050317SQUARE.png" tvg-chno="1237" group-title="" , Miramax Channel
 https://jmp2.uk/SamsungTVPlus/US18000163F.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20240520T222734SQUARE.png" tvg-chno="1275" group-title="United States" , NEW KMOVIES
-https://jmp2.uk/SamsungTVPlus/USAJ30000122O.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD500007TG" tvg-id="GBBD500007TG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500007TG_20230413T013222SQUARE.png_20230413013223.png" tvg-chno="4954" group-title="United Kingdom" , Grjngo - Western Movies
+#EXTINF:-1 channel-id="samsung-GBBD500007TG" tvg-id="GBBD500007TG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500007TG_20230413T013222SQUARE.png_20230413013223.png" tvg-chno="4954" group-title="" , Grjngo - Western Movies
 https://jmp2.uk/SamsungTVPlus/GBBD500007TG.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD10000019E" tvg-id="ITBD10000019E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000019E_20240117T032919SQUARE.png_20240117032919.png" tvg-chno="4977" group-title="Italy" , Grjngo- Film Western
+#EXTINF:-1 channel-id="samsung-ITBD10000019E" tvg-id="ITBD10000019E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000019E_20240117T032919SQUARE.png_20240117032919.png" tvg-chno="4977" group-title="" , Grjngo- Film Western
 https://jmp2.uk/SamsungTVPlus/ITBD10000019E.m3u8
