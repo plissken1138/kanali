@@ -20,5 +20,5 @@ http://143.244.60.30/TCM/index.m3u8
 https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
 #EXTINF:-1 channel-id="samsung-US18000163F" tvg-id="US18000163F" tvg-logo="https://i.imgur.com/bTvin2a.png" group-title="" , Miramax Channel
 https://jmp2.uk/SamsungTVPlus/US18000163F.m3u8
-#EXTINF:-1 tvg-id="HBO2East.us"" tvg-logo="https://i.imgur.com/9kcho0R.png",HBO 2 East
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://i.imgur.com/9kcho0R.png",HBO 2 East
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
