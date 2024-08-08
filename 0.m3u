@@ -31,3 +31,7 @@ https://jmp2.uk/SamsungTVPlus/US18000163F.m3u8
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="arte.fr",Arte (720p) [Geo-blocked]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 channel-id="FXEast.us" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="" ,FX East
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 channel-id="FXX.us" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" group-title="" ,FXX East
+http://fl2.moveonjoy.com/FXX/index.m3u8
