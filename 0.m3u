@@ -33,3 +33,5 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UGCgEHV.png" group-title="" ,Tubi Originals
 https://lnc-tubi-originals.tubi.video/index.m3u8
+#EXTINF:-1	tvg-id="Comet.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" ,Comet (720p)	
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8			
