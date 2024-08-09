@@ -15,12 +15,26 @@ http://143.244.60.30/TCM/index.m3u8
 https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
 #EXTINF:-1 channel-id="samsung-US18000163F" tvg-id="US18000163F" tvg-logo="https://i.imgur.com/bTvin2a.png" group-title="" ,Miramax Channel
 https://jmp2.uk/SamsungTVPlus/US18000163F.m3u8
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://i.imgur.com/tN3UQwh.png" ,HBO East
+http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://i.imgur.com/9kcho0R.png" ,HBO 2 East
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 channel-id="FXEast.us" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="" ,FX East
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 channel-id="FXX.us" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" group-title="" ,FXX East
 http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/1920px-MGM%2B_logo.svg.png" ,MGM+ East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png" ,Cinemax East
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/640px-Starz_2022.svg.png" ,STARZ East
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" ,Showtime East
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2East.u" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1920px-Showtime_2.svg.png" ,Showtime 2 East
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/1920px-Showtime_Extreme.svg.png" ,Showtime Extreme East
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="70sCinema.us" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="" ,Pluto TV 70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="80sRewind.us" tvg-logo="https://i.imgur.com/nkEeYfI.png" group-title="" ,Pluto TV 80s Rewind
