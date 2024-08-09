@@ -23,9 +23,11 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 channel-id="FXX.us" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" group-title="" ,FXX East
 http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/1920px-MGM%2B_logo.svg.png" ,MGM+ East
+#EXTINF:-1 channel-id="FXMovieChannel.us" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/640px-FXM_Logo.svg.png" group-title="" ,FXX Movies
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://i.imgur.com/QqLMNiv.png" ,MGM+ East
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusHitsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/MGM%2B_Hits_2023.svg" ,MGM+ Hits
+#EXTINF:-1 tvg-id="MGMPlusHitsEast.us" tvg-logo="https://i.imgur.com/fBY2YQo.png" ,MGM+ Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/640px-MGM%2B_Marquee_2023.svg.png" ,MGM+ Marquee
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
