@@ -6,8 +6,6 @@ https://jmp2.uk/SamsungTVPlus/USAJ26000054W.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 #EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="" ,Turner Classic Movies (TCM) East
 http://143.244.60.30/TCM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" ,Cult Classic Movie Theater
-https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
 #EXTINF:-1 channel-id="samsung-US18000163F" tvg-id="US18000163F" tvg-logo="https://i.imgur.com/bTvin2a.png" group-title="" ,Miramax Channel
 https://jmp2.uk/SamsungTVPlus/US18000163F.m3u8
 #EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://i.imgur.com/VH6tclQ.png" ,HBO East
@@ -20,9 +18,9 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 channel-id="FXMovieChannel.us" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/640px-FXM_Logo.svg.png" group-title="" ,FXX Movies
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://i.imgur.com/QqLMNiv.png" ,MGM+ East
+#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/640px-MGM%2B_logo.svg.png" ,MGM+ East
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusHitsEast.us" tvg-logo="https://i.imgur.com/fBY2YQo.png" ,MGM+ Hits
+#EXTINF:-1 tvg-id="MGMPlusHitsEast.us" tvg-logo="https://i.imgur.com/fBY2YQo.png" ,MGM+ Hits East
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/640px-MGM%2B_Marquee_2023.svg.png" ,MGM+ Marquee
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
@@ -52,17 +50,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810
 https://lnc-tubi-originals.tubi.video/index.m3u8
 #EXTINF:-1	tvg-id="Comet.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" ,Comet (720p)	
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8			
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Adult Swim Daily Animated (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DTDymj8.png" group-title="",Adult Swim Daily Animated (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Adult Swim Daily Live Action (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DTDymj8.png" group-title="",Adult Swim Daily Live Action (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Adult Swim Primal (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DTDymj8.png" group-title="",Adult Swim Primal (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="",Adult Swim Rick and Morty (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="",Adult Swim Rick and Morty (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="",Adult Swim Robot Chicken (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="",Adult Swim Robot Chicken (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="",Adult Swim Samurai Jack (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="",Adult Swim Samurai Jack (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/47za7Yq.png" group-title="",Adult Swim The Eric Andre Show (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/47za7Yq.png" group-title="",Adult Swim The Eric Andre Show (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
