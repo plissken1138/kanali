@@ -12,7 +12,7 @@ https://jmp2.uk/SamsungTVPlus/US18000163F.m3u8
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://i.imgur.com/9kcho0R.png" ,HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://i.imgur.com/0Dg8Nsg.png" ,AMC
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" ,AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 channel-id="FXEast.us" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="" ,FX
 http://fl2.moveonjoy.com/FX/index.m3u8
