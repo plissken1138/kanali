@@ -30,13 +30,13 @@ http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/640px-Starz_2022.svg.png" ,Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="StarzEdgeEast.us" tvg-logo="" ,Starz Edge
+#EXTINF:-1 tvg-id="StarzEdgeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Starz_Edge_2016.svg/640px-Starz_Edge_2016.svg.png" ,Starz Edge
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="" ,Starz Encore
+#EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/640px-Starz_Encore.svg.png" ,Starz Encore
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreActionEast.us" tvg-logo="" ,Starz Encore Action
+#EXTINF:-1 tvg-id="StarzEncoreActionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/640px-Starz_Encore_Action.svg.png" ,Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="" ,ABC
+#EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ABC_2021_logo_White.png/480px-ABC_2021_logo_White.png" ,ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" ,Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
