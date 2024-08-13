@@ -12,7 +12,7 @@ https://jmp2.uk/SamsungTVPlus/US18000163F.m3u8
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://i.imgur.com/9kcho0R.png" ,HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AMC_logo_1.png/799px-AMC_logo_1.png" ,AMC
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://i.imgur.com/JHmo1VK.png" ,AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 channel-id="FXEast.us" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="" ,FX
 http://fl2.moveonjoy.com/FX/index.m3u8
@@ -24,8 +24,6 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusHitsEast.us" tvg-logo="https://i.imgur.com/fBY2YQo.png" ,MGM+ Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/640px-MGM%2B_Marquee_2023.svg.png" ,MGM+ Marquee
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png" ,Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/640px-Starz_2022.svg.png" ,Starz
@@ -50,8 +48,6 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jmudbCz.png" group-title="" ,Pluto TV Comedy Central
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVHunter.us" tvg-logo="https://i.imgur.com/UKTKf7X.png" group-title="" ,Pluto TV Hunter
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UGCgEHV.png" group-title="" ,Tubi Originals
 https://lnc-tubi-originals.tubi.video/index.m3u8
 #EXTINF:-1	tvg-id="Comet.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" ,Comet
