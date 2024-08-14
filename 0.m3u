@@ -14,7 +14,7 @@ http://fl2.moveonjoy.com/HBO/index.m3u8
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-logo="https://i.imgur.com/SKtxcZj.png" ,HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://i.imgur.com/yIastBU.png" ,AMC
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" ,AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 channel-id="FXEast.us" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="" ,FX
 http://fl2.moveonjoy.com/FX/index.m3u8
@@ -54,17 +54,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 https://lnc-tubi-originals.tubi.video/index.m3u8
 #EXTINF:-1	tvg-id="Comet.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" ,Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8			
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DTDymj8.png" group-title="",Adult Swim Daily Animated
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fck3Rbi.png" ,Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DTDymj8.png" group-title="",Adult Swim Daily Live Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fck3Rbi.png" ,Adult Swim Daily Live Action
 https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DTDymj8.png" group-title="",Adult Swim Primal
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fck3Rbi.png" ,Adult Swim Primal
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="",Adult Swim Rick and Morty
+#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/uPV5CT1.png" ,Adult Swim Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="",Adult Swim Robot Chicken
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" ,Adult Swim Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="",Adult Swim Samurai Jack
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" ,Adult Swim Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/47za7Yq.png" group-title="",Adult Swim The Eric Andre Show
+#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/47za7Yq.png" ,Adult Swim The Eric Andre Show
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
