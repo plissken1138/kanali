@@ -28,6 +28,10 @@ http://fl2.moveonjoy.com/EPIX/index.m3u8
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png" ,Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,ACTIONMYX
+http://38.22.17.37:6969/stream/asd/6/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,5STARMAX
+http://38.22.17.37:6969/stream/asd/2/master.m3u8
 #EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/640px-Starz_2022.svg.png" ,Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-id="StarzEdgeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Starz_Edge_2016.svg/640px-Starz_Edge_2016.svg.png" ,Starz Edge
