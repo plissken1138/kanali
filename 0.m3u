@@ -4,7 +4,7 @@ https://webtvstream.bhtelecom.ba/hrt3.m3u8
 https://jmp2.uk/SamsungTVPlus/USAJ26000054W.m3u8
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://i.imgur.com/4Fkwc6E.png" group-title="" ,Paramount Plus Picks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
-#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="" ,Turner Classic Movies
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://i.postimg.cc/4Z17GmMc/TCM-2021-svg.png?dl=1" group-title="" ,Turner Classic Movies
 http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 channel-id="samsung-US18000163F" tvg-id="US18000163F" tvg-logo="https://i.imgur.com/bTvin2a.png" group-title="" ,Miramax Channel
 https://jmp2.uk/SamsungTVPlus/US18000163F.m3u8
