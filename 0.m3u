@@ -54,7 +54,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 https://lnc-tubi-originals.tubi.video/index.m3u8
 #EXTINF:-1	tvg-id="Comet.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" ,Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cinevault Classics
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/dJJt7sZC/CINEVAULT-CLASSICS.png?dl=1" group-title="",Cinevault Classics
 https://lnc-cinevault-classics.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fck3Rbi.png" ,Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
