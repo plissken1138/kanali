@@ -30,16 +30,13 @@ http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/602px-OuterMax_Logo.svg.png" ,Outermax
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-name="More Max (East) (MOMAX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/585px-MoreMax_Logo.svg.png" ,MoreMax
+#EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-name="More Max (East) (MOMAX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/585px-MoreMax_Logo.svg.png" ,MoreMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-name="Cinemax HDTV (East) (MAXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" ,Cinemax
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-name="Cinemax HDTV (East) (MAXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" ,CineMAX
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-name="5StarMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/320px-5StarMax_Logo.svg.png" , 5StarMAX
-http://67.220.74.90:25461/18736836/73683618/5038
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-id="5starmax.us" tvg-name="5starmax.us", 5 StarMax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-id="5starmax.us" tvg-name="5starmax.us", 5 StarMAX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
 
@@ -63,6 +60,9 @@ http://fl2.moveonjoy.com/EPIX/index.m3u8
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/640px-Starz_2022.svg.png" ,Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/640px-Starz_2022.svg.png" ,Starz
+http://67.220.74.90:25461/18736836/73683618/5038
 #EXTINF:-1 tvg-id="StarzEdgeEast.us" tvg-logo="https://i.postimg.cc/x0KjPZVm/Starz-Edge-2016-svg.png?dl=1" ,Starz Edge
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="https://i.postimg.cc/YrMrDxts/Starz-Encore-svg.png?dl=1" ,Starz Encore
