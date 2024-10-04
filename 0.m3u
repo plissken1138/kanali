@@ -27,6 +27,10 @@ http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-name="5StarMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/320px-5StarMax_Logo.svg.png" , 5StarMAX
 http://67.220.74.90:25461/18736836/73683618/5038
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-id="5starmax.us" tvg-name="5starmax.us", 5 StarMax
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
+
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-name="ActionMAX HDTV (East) (AMXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/320px-ActionMax_logo.svg.png" , ActionMAX
 http://67.220.74.90:25461/18736836/73683618/5032
 
