@@ -29,19 +29,30 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/602px-OuterMax_Logo.svg.png" ,Outermax
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-
 #EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-name="More Max (East) (MOMAX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/585px-MoreMax_Logo.svg.png" ,MoreMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-name="Cinemax HDTV (East) (MAXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" ,CineMAX
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-id="5starmax.us" tvg-name="5starmax.us", 5 StarMAX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
-
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-name="ActionMAX HDTV (East) (AMXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/320px-ActionMax_logo.svg.png" ,ActionMAX
 http://67.220.74.90:25461/18736836/73683618/5032
+
+#EXTINF:-1 tvg-id="cinemax.us" tvg-logo="https://logo.koditvepg.com/US/cinemax.east.us.png" tvg-name="US CineMAX" ,US CineMAX
+http://hdhd.tk:80/live/Rod/Rod1/337.m3u8
+#EXTINF:-1 tvg-id="actionmax.us" tvg-logo="https://logo.koditvepg.com/US/actionmax.eastern.us.png" tvg-name="US ActionMAX" ,US ActionMAX
+http://hdhd.tk:80/live/Rod/Rod1/339.m3u8
+#EXTINF:-1 tvg-id="moremax.us" tvg-logo="https://logo.koditvepg.com/US/moremax.eastern.us.png" tvg-name="US MoreMAX" ,US MoreMAX
+http://hdhd.tk:80/live/Rod/Rod1/341.m3u8
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-logo="https://logo.koditvepg.com/US/thrillermax.east.us.png" tvg-name="US ThrillerMAX" ,US ThrillerMAX
+http://hdhd.tk:80/live/Rod/Rod1/343.m3u8
+#EXTINF:-1 tvg-id="moviemax.us" tvg-logo="https://logo.koditvepg.com/US/moviemax.max.6.east.us.png" tvg-name="US MovieMAX" ,US MovieMAX
+http://hdhd.tk:80/live/Rod/Rod1/345.m3u8
+#EXTINF:-1 tvg-id="outermax.us" tvg-logo="https://logo.koditvepg.com/US/outermax.eastern.us.png" tvg-name="US OuterMAX" ,US OuterMAX
+http://hdhd.tk:80/live/Rod/Rod1/346.m3u8
+#EXTINF:-1 tvg-id="5starmax.us" tvg-logo="https://logo.koditvepg.com/US/5.star.max.eastern.us.png" tvg-name="US 5 StarMAX" ,US 5 StarMAX
+http://hdhd.tk:80/live/Rod/Rod1/347.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-name="Sony Movie Channel HD (SONY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
