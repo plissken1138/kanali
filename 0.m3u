@@ -29,7 +29,7 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/602px-OuterMax_Logo.svg.png" ,Outermax
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-name="More Max (East) (MOMAX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/585px-MoreMax_Logo.svg.png" ,MoreMAX
+#EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-name="More Max (East) (MOMAX)" tvg-logo="https://i.postimg.cc/VY4mCHLb/moremax.png" ,MoreMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-name="Cinemax HDTV (East) (MAXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" ,CineMAX
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
@@ -134,7 +134,7 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 #EXTINF:-1	tvg-id="smithsonianchannel.us"	tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png"	,	Smithsonian Channel
 http://hdhd.tk:80/live/Rod/Rod1/674.m3u8
 
-#EXTINF:-1	tvg-id="tmc.us"	tvg-logo=""	,The Movie Channel	
+#EXTINF:-1	tvg-id="tmc.us"	tvg-logo="https://i.postimg.cc/JrnmccGY/The-Movie-Channel-svg.png"	,The Movie Channel	
 http://hdhd.tk:80/live/Rod/Rod1/41598.m3u8
 
 #EXTINF:-1	tvg-id="mgm.us"	tvg-logo="https://static.epg.best/us/MGM.us.png"	,US MGM+	
