@@ -56,6 +56,8 @@ http://hdhd.tk:80/live/Rod/Rod1/347.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-name="Sony Movie Channel HD (SONY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/MmvfXOi.png" ,Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" ,AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
