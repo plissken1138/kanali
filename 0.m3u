@@ -132,16 +132,14 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 
 #EXTINF:-1	tvg-id="smithsonianchannel.us"	tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png"	,	Smithsonian Channel
-http://hdhd.tk:80/live/Rod/Rod1/674.m3u8
 
 #EXTINF:-1	tvg-id="tmc.us"	tvg-logo="https://i.postimg.cc/JrnmccGY/The-Movie-Channel-svg.png"	,The Movie Channel	
-http://hdhd.tk:80/live/Rod/Rod1/41598.m3u8
 
 #EXTINF:-1	tvg-id="mgm.us"	tvg-logo="https://static.epg.best/us/MGM.us.png"	,US MGM+	
-http://hdhd.tk:80/live/Rod/Rod1/41597.m3u8
+
 #EXTINF:-1	tvg-id="mgmhits.us"	tvg-logo="https://static.epg.best/us/MGM.us.png"	,US MGM+ Hits	
-http://hdhd.tk:80/live/Rod/Rod1/353.m3u8
+
 #EXTINF:-1	tvg-id="mgmmarquee.us"	tvg-logo="https://static.epg.best/us/MGM.us.png"	,US MGM+ Marquee	
-http://hdhd.tk:80/live/Rod/Rod1/354.m3u8
+
 #EXTINF:-1	tvg-id="mgmdrivein.us"	tvg-logo="https://static.epg.best/us/MGM.us.png"	,US MGM+ Drive IN	
-http://hdhd.tk:80/live/Rod/Rod1/355.m3u8
+
