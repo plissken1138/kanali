@@ -87,8 +87,15 @@ http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-logo="https://i.postimg.cc/fZ51w7vH/Starz-Comedy-2016-svg.png?dl=1" ,Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-name="STARZ ENCORE Westerns (East) (STZWS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" ,Starz Encore Westerns
+#EXTINF:-1	tvg-id="StarzCinema.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/320px-Starz_Cinema_Logo_2022.svg.png"	,Starz Cinema 
+http://74.48.44.156:1234/stream/asd/403/master.m3u8
+#EXTINF:-1	tvg-id="StarzEncoreBlack.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/320px-Starz_Encore_Black_Logo_2022.svg.png"	,Starz Encore Black	
+http://74.48.44.156:1234/stream/asd/396/master.m3u8
+#EXTINF:-1	tvg-id="StarzEncoreClassic.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/320px-Starz_Encore_Classic_Logo_2022.svg.png"	,Starz Encore Classic	
+http://74.48.44.156:1234/stream/asd/397/master.m3u8
+#EXTINF:-1	tvg-id="StarzEncoreSuspense.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/320px-Starz_Encore_Suspense_Logo_2022.svg.png"	,Starz Encore Suspense	
+http://74.48.44.156:1234/stream/asd/399/master.m3u8
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/320px-Starz_Encore_Westerns_Logo_2022.svg.png" ,Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-name="SundanceTV HDTV (East) (SUNHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" ,SundanceTV
@@ -104,6 +111,7 @@ http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeNextEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/674px-Showtime_Next.svg.png" ,Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/rKtJP8R.png" ,BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://i.imgur.com/JibAOLe.png" ,Syfy
