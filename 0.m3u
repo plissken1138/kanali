@@ -41,9 +41,6 @@ http://67.220.74.90:25461/18736836/73683618/5032
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/640px-IFC_2014_logo.svg.png" ,IFC
-http://hdhd.tk:80/live/Rod/Rod1/84.m3u8
-
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" ,AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 channel-id="FXEast.us" tvg-id="" tvg-logo="https://i.postimg.cc/fDrbWXvV/FX-International-logo-svg.png?dl=1" ,FX
@@ -72,13 +69,13 @@ http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-logo="https://i.postimg.cc/fZ51w7vH/Starz-Comedy-2016-svg.png?dl=1" ,Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1	tvg-id="StarzCinema.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/512px-Starz_Cinema_Logo_2022.svg.png"	,Starz Cinema 
+#EXTINF:-1 tvg-id="StarzCinema.us"	tvg-logo="https://i.postimg.cc/rqnmVwKB/Starz-Cinema-Logo-2022-svg.png?dl=1"	,Starz Cinema 
 http://74.48.44.156:1234/stream/asd/403/master.m3u8
-#EXTINF:-1	tvg-id="StarzEncoreBlack.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/512px-Starz_Encore_Black_Logo_2022.svg.png"	,Starz Encore Black	
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us"	tvg-logo="https://i.postimg.cc/bz4wnV0L/Starz-Encore-Black-Logo-2022-svg.png?dl=1"	,Starz Encore Black	
 http://74.48.44.156:1234/stream/asd/396/master.m3u8
-#EXTINF:-1	tvg-id="StarzEncoreClassic.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/5120px-Starz_Encore_Classic_Logo_2022.svg.png"	,Starz Encore Classic	
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us"	tvg-logo="https://i.postimg.cc/k935XZgg/Starz-Encore-Classic-Logo-2022-svg.png?dl=1"	,Starz Encore Classic	
 http://74.48.44.156:1234/stream/asd/397/master.m3u8
-#EXTINF:-1	tvg-id="StarzEncoreSuspense.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/512px-Starz_Encore_Suspense_Logo_2022.svg.png"	,Starz Encore Suspense	
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us"	tvg-logo="https://i.postimg.cc/jxNd46ZT/Starz-Encore-Suspense-Logo-2022-svg.png?dl=1"	,Starz Encore Suspense	
 http://74.48.44.156:1234/stream/asd/399/master.m3u8
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/512px-Starz_Encore_Westerns_Logo_2022.svg.png" ,Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
@@ -86,8 +83,9 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-name="SundanceTV HDTV (East) (SUNHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" ,SundanceTV
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
-#EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ABC_2021_logo_White.png/480px-ABC_2021_logo_White.png" ,ABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/640px-IFC_2014_logo.svg.png" ,IFC
+http://hdhd.tk:80/live/Rod/Rod1/84.m3u8
+
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" ,Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="Showtime2East.u" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1920px-Showtime_2.svg.png" ,Showtime 2
@@ -102,7 +100,7 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://i.imgur.com/JibAOLe.png" ,Syfy
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
-#EXTINF:-1	tvg-id="Comet.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/320px-Comet_logo.svg.png" ,Comet
+#EXTINF:-1	tvg-id="Comet.us"	tvg-logo="https://i.postimg.cc/817Cjgvj/Comet-logo-svg.png?dl=1" ,Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jmudbCz.png" ,Pluto TV Comedy Central
