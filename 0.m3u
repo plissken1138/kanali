@@ -24,6 +24,12 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1	tvg-id="HBOSignature.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/320px-HBO_Signature_%282014%29.svg.png"	,HBO Signature
 http://74.48.44.156:1234/stream/asd/313/master.m3u8
 
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" ,AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/320px-Cinemax_%28Yellow%29.svg.png" ,Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/602px-OuterMax_Logo.svg.png" ,Outermax
@@ -38,11 +44,6 @@ http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/320px-ActionMax_logo.svg.png" ,ActionMAX
 http://67.220.74.90:25461/18736836/73683618/5032
 
-#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" ,AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 channel-id="FXEast.us" tvg-id="" tvg-logo="https://i.postimg.cc/fDrbWXvV/FX-International-logo-svg.png?dl=1" ,FX
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 channel-id="FXX.us" tvg-id="" tvg-logo="https://i.postimg.cc/x9N1XCst/FXX-Logo-svg.png?dl=1" ,FXX
