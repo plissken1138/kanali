@@ -84,7 +84,7 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-name="SundanceTV HDTV (East) (SUNHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" ,SundanceTV
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
-#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/640px-IFC_2014_logo.svg.png" ,IFC 1080p
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US IFC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/640px-IFC_2014_logo.svg.png" ,IFC 1080p 
 http://cord-cutter.net:8080/kbc223@gmail.com/kbc223@2023/9272
 #EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/640px-IFC_2014_logo.svg.png" ,IFC 720p
 http://streamsy.online:2999/happy2024/newyear/151
