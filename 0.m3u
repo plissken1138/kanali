@@ -21,7 +21,7 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/320px-HBO_Zone_%282014%29.svg.png" ,HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1	tvg-id="HBOSignature.us"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/320px-HBO_Signature_%282014%29.svg.png"	,HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/320px-HBO_Signature_%282014%29.svg.png" ,HBO Signature
 http://74.48.44.156:1234/stream/asd/313/master.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
@@ -70,13 +70,13 @@ http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-logo="https://i.postimg.cc/fZ51w7vH/Starz-Comedy-2016-svg.png?dl=1" ,Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="StarzCinema.us"	tvg-logo="https://i.postimg.cc/rqnmVwKB/Starz-Cinema-Logo-2022-svg.png?dl=1"	,Starz Cinema 
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-logo="https://i.postimg.cc/rqnmVwKB/Starz-Cinema-Logo-2022-svg.png?dl=1" ,Starz Cinema 
 http://74.48.44.156:1234/stream/asd/403/master.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreBlack.us"	tvg-logo="https://i.postimg.cc/bz4wnV0L/Starz-Encore-Black-Logo-2022-svg.png?dl=1"	,Starz Encore Black	
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-logo="https://i.postimg.cc/bz4wnV0L/Starz-Encore-Black-Logo-2022-svg.png?dl=1" ,Starz Encore Black 
 http://74.48.44.156:1234/stream/asd/396/master.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us"	tvg-logo="https://i.postimg.cc/k935XZgg/Starz-Encore-Classic-Logo-2022-svg.png?dl=1"	,Starz Encore Classic	
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-logo="https://i.postimg.cc/k935XZgg/Starz-Encore-Classic-Logo-2022-svg.png?dl=1" ,Starz Encore Classic 
 http://74.48.44.156:1234/stream/asd/397/master.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us"	tvg-logo="https://i.postimg.cc/jxNd46ZT/Starz-Encore-Suspense-Logo-2022-svg.png?dl=1"	,Starz Encore Suspense	
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-logo="https://i.postimg.cc/jxNd46ZT/Starz-Encore-Suspense-Logo-2022-svg.png?dl=1" ,Starz Encore Suspense 
 http://74.48.44.156:1234/stream/asd/399/master.m3u8
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/512px-Starz_Encore_Westerns_Logo_2022.svg.png" ,Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
@@ -101,7 +101,7 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://i.imgur.com/JibAOLe.png" ,Syfy
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
-#EXTINF:-1	tvg-id="Comet.us"	tvg-logo="https://i.postimg.cc/817Cjgvj/Comet-logo-svg.png?dl=1" ,Comet
+#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://i.postimg.cc/817Cjgvj/Comet-logo-svg.png?dl=1" ,Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jmudbCz.png" ,Pluto TV Comedy Central
@@ -126,5 +126,5 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 #EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/47za7Yq.png" ,Adult Swim The Eric Andre Show
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 
-#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png"	,Smithsonian Channel
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" ,Smithsonian Channel
 http://74.48.44.156:1234/stream/asd/391/master.m3u8
