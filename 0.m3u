@@ -104,6 +104,9 @@ http://fl2.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://i.postimg.cc/817Cjgvj/Comet-logo-svg.png?dl=1" ,Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/z864Smbs/IFC-FP.png?dl=1" ,IFC Film Picks
+https://amc-ifc-films-picks-1-us.tablo.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jmudbCz.png" ,Pluto TV Comedy Central
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
 
