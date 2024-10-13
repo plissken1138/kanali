@@ -24,7 +24,7 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/320px-HBO_Signature_%282014%29.svg.png" ,HBO Signature
 http://74.48.44.156:1234/stream/asd/313/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" ,AMC
@@ -44,17 +44,17 @@ http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/320px-ActionMax_logo.svg.png" ,ActionMAX
 http://67.220.74.90:25461/18736836/73683618/5032
 
-#EXTINF:-1 channel-id="FXEast.us" tvg-id="" tvg-logo="https://i.postimg.cc/fDrbWXvV/FX-International-logo-svg.png?dl=1" ,FX
+#EXTINF:-1 channel-id="FXEast.us" tvg-id="FXEast.us" tvg-logo="https://i.postimg.cc/fDrbWXvV/FX-International-logo-svg.png?dl=1" ,FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 channel-id="FXX.us" tvg-id="" tvg-logo="https://i.postimg.cc/x9N1XCst/FXX-Logo-svg.png?dl=1" ,FXX
+#EXTINF:-1 channel-id="FXX.us" tvg-id="FXX.us" tvg-logo="https://i.postimg.cc/x9N1XCst/FXX-Logo-svg.png?dl=1" ,FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 channel-id="FXMovieChannel.us" tvg-id="" tvg-logo="https://i.postimg.cc/3KMJmTV7/FXM-Logo-svg.png?dl=1" ,FXX Movies
+#EXTINF:-1 channel-id="FXMovieChannel.us" tvg-id="FXMovieChannel.us" tvg-logo="https://i.postimg.cc/3KMJmTV7/FXM-Logo-svg.png?dl=1" ,FXX Movies
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/640px-MGM%2B_logo.svg.png" ,MGM+
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGM+Hits.us" tvg-name="EPIX_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/320px-MGM%2B_Hits_2023.svg.png" ,MGM+ Hits
+#EXTINF:-1 tvg-id="MGMPlusHitsEast.u" tvg-name="EPIX_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/320px-MGM%2B_Hits_2023.svg.png" ,MGM+ Hits
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusHitsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png" ,MGM+ Drive-In
+#EXTINF:-1 tvg-id="MGMPlusDriveIn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png" ,MGM+ Drive-In
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/640px-Starz_2022.svg.png" ,Starz (Early)
