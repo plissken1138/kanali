@@ -21,8 +21,8 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/320px-HBO_Zone_%282014%29.svg.png" ,HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/320px-HBO_Signature_%282014%29.svg.png" ,HBO Signature
-http://74.48.44.156:1234/stream/asd/313/master.m3u8
+  #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/320px-HBO_Signature_%282014%29.svg.png" ,HBO Signature
+  #http://74.48.44.156:1234/stream/asd/313/master.m3u8
 
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
@@ -36,8 +36,8 @@ http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://i.postimg.cc/VY4mCHLb/moremax.png" ,MoreMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" ,CineMAX
-http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+  #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" ,CineMAX
+  #http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-id="5starmax.us" tvg-name="5starmax.us",5 StarMAX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
@@ -50,12 +50,15 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 channel-id="FXMovieChannel.us" tvg-id="FXMovieChannel.us" tvg-logo="https://i.postimg.cc/3KMJmTV7/FXM-Logo-svg.png?dl=1" ,FXX Movies
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+
 #EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/640px-MGM%2B_logo.svg.png" ,MGM+
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusHitsEast.u" tvg-name="EPIX_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/320px-MGM%2B_Hits_2023.svg.png" ,MGM+ Hits
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusDriveIn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png" ,MGM+ Drive-In
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" ,MGM+ Marquee
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/640px-Starz_2022.svg.png" ,Starz (Early)
 http://67.220.74.90:25461/18736836/73683618/5038
@@ -70,14 +73,14 @@ http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-logo="https://i.postimg.cc/fZ51w7vH/Starz-Comedy-2016-svg.png?dl=1" ,Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="StarzCinema.us" tvg-logo="https://i.postimg.cc/rqnmVwKB/Starz-Cinema-Logo-2022-svg.png?dl=1" ,Starz Cinema 
-http://74.48.44.156:1234/stream/asd/403/master.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-logo="https://i.postimg.cc/bz4wnV0L/Starz-Encore-Black-Logo-2022-svg.png?dl=1" ,Starz Encore Black 
-http://74.48.44.156:1234/stream/asd/396/master.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-logo="https://i.postimg.cc/k935XZgg/Starz-Encore-Classic-Logo-2022-svg.png?dl=1" ,Starz Encore Classic 
-http://74.48.44.156:1234/stream/asd/397/master.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-logo="https://i.postimg.cc/jxNd46ZT/Starz-Encore-Suspense-Logo-2022-svg.png?dl=1" ,Starz Encore Suspense 
-http://74.48.44.156:1234/stream/asd/399/master.m3u8
+  #EXTINF:-1 tvg-id="StarzCinema.us" tvg-logo="https://i.postimg.cc/rqnmVwKB/Starz-Cinema-Logo-2022-svg.png?dl=1" ,Starz Cinema 
+  #http://74.48.44.156:1234/stream/asd/403/master.m3u8
+  #EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-logo="https://i.postimg.cc/bz4wnV0L/Starz-Encore-Black-Logo-2022-svg.png?dl=1" ,Starz Encore Black 
+  #http://74.48.44.156:1234/stream/asd/396/master.m3u8
+  #EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-logo="https://i.postimg.cc/k935XZgg/Starz-Encore-Classic-Logo-2022-svg.png?dl=1" ,Starz Encore Classic 
+  #http://74.48.44.156:1234/stream/asd/397/master.m3u8
+  #EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-logo="https://i.postimg.cc/jxNd46ZT/Starz-Encore-Suspense-Logo-2022-svg.png?dl=1" ,Starz Encore Suspense 
+  #http://74.48.44.156:1234/stream/asd/399/master.m3u8
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/512px-Starz_Encore_Westerns_Logo_2022.svg.png" ,Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
@@ -130,5 +133,5 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 #EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/47za7Yq.png" ,Adult Swim The Eric Andre Show
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 
-#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" ,Smithsonian Channel
-http://74.48.44.156:1234/stream/asd/391/master.m3u8
+  #EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" ,Smithsonian Channel
+  #http://74.48.44.156:1234/stream/asd/391/master.m3u8
