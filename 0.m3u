@@ -146,3 +146,12 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 
 #EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" ,Smithsonian Channel
 http://streamsy.online:2999/happy2024/newyear/518
+
+
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-logo="https://i.ibb.co/xDVhscj/thrillermax.png" ,ThrillerMax
+http://streamsy.online:2999/happy2024/newyear/1607
+#EXTINF:-1 tvg-id="moviemax.us" tvg-logo="https://i.ibb.co/nmdC35C/moviemax.png" ,MovieMax
+http://streamsy.online:2999/happy2024/newyear/1605
+
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-logo="https://i.ibb.co/88XyBLk/mtvc.png" ,MTV Classics
+http://streamsy.online:2999/happy2024/newyear/1194
