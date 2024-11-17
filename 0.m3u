@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" ,HRT 3
+#EXTINF:-1 tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" ,HRT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 
