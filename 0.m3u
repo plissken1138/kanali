@@ -41,11 +41,19 @@ http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
   #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" ,CineMAX
   #http://fl5.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-id="5starmax.us" tvg-name="5starmax.us",5 StarMAX
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
-#EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/320px-ActionMax_logo.svg.png" ,ActionMAX
-http://67.220.74.90:25461/18736836/73683618/5032
+  
+  #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-id="5starmax.us" tvg-name="5starmax.us",5 StarMAX
+  #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+  #http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
+  #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/320px-ActionMax_logo.svg.png" ,ActionMAX
+  #http://67.220.74.90:25461/18736836/73683618/5032
+
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-logo="https://i.ibb.co/xDVhscj/thrillermax.png" ,ThrillerMax
+http://streamsy.online:2999/happy2024/newyear/1607
+#EXTINF:-1 tvg-id="moviemax.us" tvg-logo="https://i.ibb.co/nmdC35C/moviemax.png" ,MovieMax
+http://streamsy.online:2999/happy2024/newyear/1605
+
+
 
 #EXTINF:-1 channel-id="FXEast.us" tvg-id="FXEast.us" tvg-logo="https://i.postimg.cc/fDrbWXvV/FX-International-logo-svg.png?dl=1" ,FX
 http://fl2.moveonjoy.com/FX/index.m3u8
@@ -152,12 +160,6 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 
 #EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" ,Smithsonian Channel
 http://streamsy.online:2999/happy2024/newyear/518
-
-
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-logo="https://i.ibb.co/xDVhscj/thrillermax.png" ,ThrillerMax
-http://streamsy.online:2999/happy2024/newyear/1607
-#EXTINF:-1 tvg-id="moviemax.us" tvg-logo="https://i.ibb.co/nmdC35C/moviemax.png" ,MovieMax
-http://streamsy.online:2999/happy2024/newyear/1605
 
 #EXTINF:-1 tvg-id="mtvclassic.us" tvg-logo="https://i.ibb.co/88XyBLk/mtvc.png" ,MTV Classics
 http://streamsy.online:2999/happy2024/newyear/1194
