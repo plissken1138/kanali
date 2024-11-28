@@ -123,7 +123,8 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://i.postimg.cc/817Cjgvj/Comet-logo-svg.png?dl=1" ,Comet
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+http://fl3.moveonjoy.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" ,TNT
 https://fl2.moveonjoy.com/TNT/index.m3u8
@@ -159,7 +160,8 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 
 #EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" ,Smithsonian Channel
-http://streamsy.online:2999/happy2024/newyear/518
+#http://streamsy.online:2999/happy2024/newyear/518
+http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="mtvclassic.us" tvg-logo="https://i.ibb.co/88XyBLk/mtvc.png" ,MTV Classics
 http://streamsy.online:2999/happy2024/newyear/1194
