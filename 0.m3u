@@ -61,9 +61,9 @@ http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="https://i.postimg.cc/3KMJmTV7/FXM-Logo-svg.png?dl=1" ,FXX Movies
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 
-#EXTINF:-1 tvg-id="MGM.HD.(USA).us" tvg-name="MGM+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/640px-MGM%2B_logo.svg.png" ,MGM+
+#EXTINF:-1 tvg-id="MGM+.HD.(USA).us" tvg-name="MGM+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/640px-MGM%2B_logo.svg.png" ,MGM+
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/320px-MGM%2B_Hits_2023.svg.png" ,MGM+ Hits
+#EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-name="MGM+ HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/320px-MGM%2B_Hits_2023.svg.png" ,MGM+ Hits
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-name="MGM+ Drive-In" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png" ,MGM+ Drive-In
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
