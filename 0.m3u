@@ -21,11 +21,10 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/320px-HBO_Zone_%282014%29.svg.png" ,HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
-  #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/320px-HBO_Signature_%282014%29.svg.png" ,HBO Signature
-  #http://74.48.44.156:1234/stream/asd/313/master.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+http://cdn1host.online:2999/venomj/EmoOmOskzq/1217
 
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" ,AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -39,13 +38,11 @@ http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-id="MoreMax..Eastern.us" tvg-name="CINEMAX MOREMAX" tvg-logo="https://i.postimg.cc/VY4mCHLb/moremax.png" ,MoreMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-  #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" ,CineMAX
-  #http://fl5.moveonjoy.com/CINEMAX/index.m3u8
   
 #EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-id="5starmax.us" tvg-name="5starmax.us",5 StarMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-  #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/320px-ActionMax_logo.svg.png" ,ActionMAX
-  #http://67.220.74.90:25461/18736836/73683618/5032
+
+#EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/320px-ActionMax_logo.svg.png" ,ActionMAX
 
 #EXTINF:-1 tvg-id="thrillermax.us" tvg-logo="https://i.ibb.co/xDVhscj/thrillermax.png" ,ThrillerMax
 http://streamsy.online:2999/happy2024/newyear/1607
@@ -80,14 +77,6 @@ http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy" tvg-logo="https://i.postimg.cc/fZ51w7vH/Starz-Comedy-2016-svg.png?dl=1" ,Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-  #EXTINF:-1 tvg-id="StarzCinema.us" tvg-logo="https://i.postimg.cc/rqnmVwKB/Starz-Cinema-Logo-2022-svg.png?dl=1" ,Starz Cinema 
-  #http://74.48.44.156:1234/stream/asd/403/master.m3u8
-  #EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-logo="https://i.postimg.cc/bz4wnV0L/Starz-Encore-Black-Logo-2022-svg.png?dl=1" ,Starz Encore Black 
-  #http://74.48.44.156:1234/stream/asd/396/master.m3u8
-  #EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-logo="https://i.postimg.cc/k935XZgg/Starz-Encore-Classic-Logo-2022-svg.png?dl=1" ,Starz Encore Classic 
-  #http://74.48.44.156:1234/stream/asd/397/master.m3u8
-  #EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-logo="https://i.postimg.cc/jxNd46ZT/Starz-Encore-Suspense-Logo-2022-svg.png?dl=1" ,Starz Encore Suspense 
-  #http://74.48.44.156:1234/stream/asd/399/master.m3u8
 #EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/512px-Starz_Encore_Westerns_Logo_2022.svg.png" ,Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
@@ -138,9 +127,6 @@ http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="https://i.postimg.cc/Mx1NyCD6/CMT.png?dl=1" ,CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
 
-  #EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="CBSEAST" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png",CBS (WBZ)
-  #http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/The_Movie_Channel_2006_alternate.png",The Movie Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&serverSideAds=true&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=
 
@@ -149,21 +135,6 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" ,Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-
-  #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fck3Rbi.png" ,Adult Swim Daily Animated
-  #https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
-  #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fck3Rbi.png" ,Adult Swim Daily Live Action
-  #https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
-  #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fck3Rbi.png" ,Adult Swim Primal
-  #https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
-  #EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.postimg.cc/VfLyYRrd/pngegg.png?dl=1" ,Adult Swim Rick and Morty
-  #https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
-  #EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" ,Adult Swim Robot Chicken
-  #https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
-  #EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" ,Adult Swim Samurai Jack
-  #https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
-  #EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/47za7Yq.png" ,Adult Swim The Eric Andre Show
-  #https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 
 #EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" ,Smithsonian Channel
 #http://streamsy.online:2999/happy2024/newyear/518
