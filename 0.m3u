@@ -49,7 +49,18 @@ http://streamsy.online:2999/happy2024/newyear/1607
 #EXTINF:-1 tvg-id="moviemax.us" tvg-logo="https://i.ibb.co/nmdC35C/moviemax.png" ,MovieMax
 http://streamsy.online:2999/happy2024/newyear/1605
 
-
+#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/640px-Starz_2022.svg.png" ,Starz
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge" tvg-logo="https://i.postimg.cc/x0KjPZVm/Starz-Edge-2016-svg.png?dl=1" ,Starz Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.-.Eastern.us" tvg-name="Starz Encore" tvg-logo="https://i.postimg.cc/YrMrDxts/Starz-Encore-svg.png?dl=1" ,Starz Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-name="Starz Encore Action" tvg-logo="https://i.postimg.cc/qJwkPCRM/Starz-Encore-Action-svg.png?dl=1" ,Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy" tvg-logo="https://i.postimg.cc/fZ51w7vH/Starz-Comedy-2016-svg.png?dl=1" ,Starz Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/512px-Starz_Encore_Westerns_Logo_2022.svg.png" ,Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX" tvg-logo="https://i.postimg.cc/fDrbWXvV/FX-International-logo-svg.png?dl=1" ,FX
 http://fl2.moveonjoy.com/FX/index.m3u8
@@ -67,19 +78,6 @@ http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" ,MGM+ Marquee
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/640px-Starz_2022.svg.png" ,Starz
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge" tvg-logo="https://i.postimg.cc/x0KjPZVm/Starz-Edge-2016-svg.png?dl=1" ,Starz Edge
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.-.Eastern.us" tvg-name="Starz Encore" tvg-logo="https://i.postimg.cc/YrMrDxts/Starz-Encore-svg.png?dl=1" ,Starz Encore
-http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-name="Starz Encore Action" tvg-logo="https://i.postimg.cc/qJwkPCRM/Starz-Encore-Action-svg.png?dl=1" ,Starz Encore Action
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy" tvg-logo="https://i.postimg.cc/fZ51w7vH/Starz-Comedy-2016-svg.png?dl=1" ,Starz Comedy
-http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/512px-Starz_Encore_Westerns_Logo_2022.svg.png" ,Starz Encore Westerns
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-
 #EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-name="SundanceTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" ,SundanceTV
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
@@ -87,11 +85,8 @@ http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 http://74.48.44.156:1234/stream/asd/324/master.m3u8
 
 #EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US IFC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/640px-IFC_2014_logo.svg.png" ,IFC 1080p 
-http://cord-cutter.net:8080/kbc223@gmail.com/kbc223@2023/9272
-#http://23.237.104.106:8080/USA_IFC/index.m3u8
-
-#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/640px-IFC_2014_logo.svg.png" ,IFC 720p
-http://streamsy.online:2999/happy2024/newyear/151
+#http://cord-cutter.net:8080/kbc223@gmail.com/kbc223@2023/9272
+http://23.237.104.106:8080/USA_IFC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/z864Smbs/IFC-FP.png?dl=1" ,IFC Film Picks
 https://amc-ifc-films-picks-1-us.tablo.wurl.tv/playlist.m3u8
