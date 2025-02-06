@@ -39,7 +39,7 @@ http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-id="MoreMax..Eastern.us" tvg-name="CINEMAX MOREMAX" tvg-logo="https://i.postimg.cc/VY4mCHLb/moremax.png" ,MoreMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
   
-#EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-id="5starmax.us" tvg-name="5starmax.us",5 StarMAX
+#EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-id="5starmax.us" tvg-name="5 StarMax",5 StarMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/320px-ActionMax_logo.svg.png" ,ActionMAX
