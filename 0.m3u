@@ -134,5 +134,5 @@ http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #http://streamsy.online:2999/happy2024/newyear/518
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="mtvclassic.us" tvg-logo="https://i.ibb.co/88XyBLk/mtvc.png" ,MTV Classics
-http://streamsy.online:2999/happy2024/newyear/1194
+#EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
+http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
