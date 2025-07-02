@@ -36,7 +36,8 @@ http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OUTER MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/602px-OuterMax_Logo.svg.png" ,Outermax
 http://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-id="MoreMax..Eastern.us" tvg-name="CINEMAX MOREMAX" tvg-logo="https://i.postimg.cc/VY4mCHLb/moremax.png" ,MoreMAX
-http://fl5.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
   
 #EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -45,7 +46,7 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://supersonictv.live:8080/live/144264/661943/22881.ts
 
 #EXTINF:-1 tvg-id="thrillermax.us" tvg-logo="https://i.ibb.co/xDVhscj/thrillermax.png" ,ThrillerMax
-http://supersonictv.live:8080/live/144264/661943/22885.ts
+http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
 #EXTINF:-1 tvg-id="moviemax.us" tvg-logo="https://i.ibb.co/nmdC35C/moviemax.png" ,MovieMax
 http://supersonictv.live:8080/live/144264/661943/22883.ts
 
