@@ -8,6 +8,13 @@ http://185.166.252.230/Hrt4/index.m3u8
 #EXTINF:-1,HRT int 5 HD
 http://185.166.252.230/Hrt5/index.m3u8
 
+#EXTINF:-1,Discovery HD
+http://185.166.252.230/Discovery/index.m3u8
+#EXTINF:-1,ViasatHistory HD
+http://185.166.252.230/ViasatHistory/index.m3u8
+#EXTINF:-1,ViasatExplorer HD
+http://185.166.252.230/ViasatExplorer/index.m3u8
+
 #EXTINF:-1 tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://i.imgur.com/OHPFMpM.png" tvg-id="ParamountMovieChannel.us", Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
@@ -15,8 +22,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us"  tvg-name="TCM" tvg-logo="https://i.postimg.cc/4Z17GmMc/TCM-2021-svg.png?dl=1" ,Turner Classic Movies
-http://143.244.60.30/TCM/index.m3u8
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/402px-TCM_2021.svg.png" ,TCM East
 http://fl2.moveonjoy.com/TCM/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://i.imgur.com/VH6tclQ.png" ,HBO
@@ -155,6 +160,7 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 #http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+
 
 
 
