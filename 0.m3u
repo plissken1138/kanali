@@ -28,6 +28,7 @@ http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/320px-HBO_Zone_%282014%29.svg.png" ,HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
+#EXTINF:-1,HBO HD
 http://185.166.252.230/Hbo1/index.m3u8
 #EXTINF:-1,HBO 2 HD
 http://185.166.252.230/Hbo2/index.m3u8
@@ -154,5 +155,6 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 #http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+
 
 
