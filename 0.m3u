@@ -1,8 +1,12 @@
 #EXTINF:-1 tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
+ 
 #EXTINF:-1 tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png",HRT 3 HD (720p)
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+http://185.166.252.230/Hrt3/index.m3u8
+#EXTINF:-1,HRT 4 HD
+http://185.166.252.230/Hrt4/index.m3u8
+#EXTINF:-1,HRT int 5 HD
+http://185.166.252.230/Hrt5/index.m3u8
 
 #EXTINF:-1 tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://i.imgur.com/OHPFMpM.png" tvg-id="ParamountMovieChannel.us", Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
@@ -23,6 +27,16 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/320px-HBO_Zone_%282014%29.svg.png" ,HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+
+http://185.166.252.230/Hbo1/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://185.166.252.230/Hbo2/index.m3u8
+#EXTINF:-1,HBO 3 HD
+http://185.166.252.230/Hbo3/index.m3u8
+#EXTINF:-1,Cinemax 1 HD
+http://185.166.252.230/Cinemax1/index.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://185.166.252.230/Cinemax2/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" ,Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
@@ -140,4 +154,5 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 #http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+
 
