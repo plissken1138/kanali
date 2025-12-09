@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
  
-#EXTINF:-1 tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png",HRT 3 HD (720p)
+#EXTINF:-1 tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png",HRT 3 HD
 http://185.166.252.230/Hrt3/index.m3u8
 #EXTINF:-1,HRT 4 HD
 http://185.166.252.230/Hrt4/index.m3u8
@@ -160,6 +160,7 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 #http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+
 
 
 
