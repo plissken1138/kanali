@@ -9,7 +9,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a
 #EXTINF:-1  tvg-id="5ff8c708653d080007361b14" tvg-logo="https://i.imgur.com/4Fkwc6E.png" ,Paramount Plus Picks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us"  tvg-name="TCM" tvg-logo="https://i.postimg.cc/4Z17GmMc/TCM-2021-svg.png?dl=1" ,Turner Classic Movies
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2"  tvg-name="TCM" tvg-logo="https://i.postimg.cc/4Z17GmMc/TCM-2021-svg.png?dl=1" ,Turner Classic Movies
 http://fl2.moveonjoy.com/TCM/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="https://i.imgur.com/VH6tclQ.png" ,HBO
@@ -141,6 +141,7 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 #http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+
 
 
 
