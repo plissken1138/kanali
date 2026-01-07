@@ -80,7 +80,7 @@ http://fl1.moveonjoy.com/EPIX/index.m3u8
 http://fl1.moveonjoy.com/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-name="MGM+ Drive-In" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png" ,MGM+ Drive-In
 http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="MGM+.Marquee.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" ,MGM+ Marquee
+#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" ,MGM+ Marquee
 http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" ,SundanceTV
@@ -141,6 +141,7 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 #http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+
 
 
 
