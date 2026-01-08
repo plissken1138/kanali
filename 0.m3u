@@ -12,7 +12,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2"  tvg-name="TCM" tvg-logo="https://i.postimg.cc/4Z17GmMc/TCM-2021-svg.png?dl=1" ,Turner Classic Movies
 http://fl2.moveonjoy.com/TCM/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://i.imgur.com/VH6tclQ.png" ,HBO
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://i.imgur.com/VH6tclQ.png" ,HBO East
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO2" tvg-logo="https://i.imgur.com/9kcho0R.png" ,HBO 2
 https://fl1.moveonjoy.com/HBO_2/index.m3u8
@@ -21,11 +21,11 @@ http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/320px-HBO_Zone_%282014%29.svg.png" ,HBO Zone
 http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.adria" tvg-name="HBOadria", HBO HD
+#EXTINF:-1,HBO
 http://23.88.66.93/HBO/index.m3u8
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1,HBO 2
 http://23.88.66.93/HBO_2/index.m3u8
-#EXTINF:-1,HBO 3 HD
+#EXTINF:-1,HBO 3
 http://23.88.66.93/HBO_3/index.m3u8
 #EXTINF:-1,Cinemax 1 HD
 http://23.88.66.93/Cinemax/index.m3u8
@@ -132,7 +132,7 @@ http://fl1.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/jmudbCz.png" ,Comedy Central
 http://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" ,Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" ,Cartoon Network USA
 http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" ,Smithsonian Channel
@@ -141,6 +141,7 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 #http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+
 
 
 
