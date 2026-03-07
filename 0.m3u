@@ -38,7 +38,7 @@ http://23.88.66.93/Cinemax_2/index.m3u8
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162583
 
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="https://i.postimg.cc/1PLFgqyD/AMC-logo-2016-svg.png?dl=1" ,AMC
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45815
+http://104.255.88.155/amc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="Vice" tvg-logo="https://i.postimg.cc/MzzvR0N5/VICE-dark-360w-270h.png?dl=1" ,Vice
 http://fl1.moveonjoy.com/VICELAND/index.m3u8
@@ -151,6 +151,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45866
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 #http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+
 
 
 
