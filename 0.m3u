@@ -10,10 +10,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2"  tvg-name="TCM" tvg-logo="https://i.postimg.cc/4Z17GmMc/TCM-2021-svg.png?dl=1" ,Turner Classic Movies
-https://fl12.moveonjoy.com/TCM/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162750
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East" tvg-logo="https://i.imgur.com/VH6tclQ.png" ,HBO East
-http://fl2.moveonjoy.com/HBO/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162704
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO2" tvg-logo="https://i.imgur.com/9kcho0R.png" ,HBO 2
 https://fl1.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="https://i.imgur.com/SKtxcZj.png" ,HBO Comedy
@@ -33,19 +33,20 @@ http://23.88.66.93/Cinemax/index.m3u8
 http://23.88.66.93/Cinemax_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://i.postimg.cc/vbh35hTq/Sony-Movies-Logo-svg.png?dl=1" ,Sony Movie Channel
-http://45.5.117.99:8000/play/a03s/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162583
 
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="https://i.postimg.cc/1PLFgqyD/AMC-logo-2016-svg.png?dl=1" ,AMC
-http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45815
 
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="Vice" tvg-logo="https://i.postimg.cc/MzzvR0N5/VICE-dark-360w-270h.png?dl=1" ,Vice
 http://fl1.moveonjoy.com/VICELAND/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://i.postimg.cc/8GxcwgxP/Cinemax-(Yellow)-svg.png?dl=1" ,Cinemax
-http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162669
+
 #EXTINF:-1 tvg-id="MoreMax..Eastern.us" tvg-name="CINEMAX MOREMAX" tvg-logo="https://i.postimg.cc/VY4mCHLb/moremax.png" ,MoreMAX
-http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162710
   
 #EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -53,12 +54,15 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="actionmax.us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ACTION MAX
 #http://supersonictv.live:8080/live/144264/661943/22881.ts
 
+#EXTINF:-1 tvg-id="Silver.Screen.Classics.ca2" tvg-name="CAN-Silver Screen Classics (M)(720)" ,CAN-Silver Screen Classics (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45865
+
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX" tvg-logo="https://i.postimg.cc/fDrbWXvV/FX-International-logo-svg.png?dl=1" ,FX
-http://fl12.moveonjoy.com/FX/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162543
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="https://i.postimg.cc/x9N1XCst/FXX-Logo-svg.png?dl=1" ,FXX
-http://fl1.moveonjoy.com/FXX/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162698
 #EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="https://i.postimg.cc/3KMJmTV7/FXM-Logo-svg.png?dl=1" ,FXX Movies
-http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162697
 
 #EXTINF:-1 tvg-id="Starz.us@East" tvg-name="Starz East" tvg-logo="https://i.postimg.cc/mBJmgDn4/Starz-2022-svg.png?dl=1" ,Starz East
 http://212.102.60.231/STARZ/index.m3u8
@@ -78,22 +82,24 @@ http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
 http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
 #EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+" tvg-logo="https://i.postimg.cc/pRHNXs5G/MGM-logo-svg.png?dl=1" ,MGM+
-http://fl1.moveonjoy.com/EPIX/index.m3u8
+#
 #EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ HITS" tvg-logo="https://i.postimg.cc/kqmrXTRw/MGM-Hits-2023-svg.png?dl=1" ,MGM+ Hits
-http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+#
 #EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-name="MGM+ Drive-In" tvg-logo="https://i.postimg.cc/B40WQmP7/MGM-Drive-In-2023-svg.png?dl=1" ,MGM+ Drive-In
-http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#
 #EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-logo="https://i.postimg.cc/Tf68Yt5C/MGM-Marquee-2023-svg.png?dl=1" ,MGM+ Marquee
-http://fl1.moveonjoy.com/EPIX_2/index.m3u8
+#
+#EXTINF:-1 tvg-id="5263332f746c6b1bed25aa6c105a79d9" tvg-name="MGM Presents" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png" group-title="Movies",MGM Presents
+https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
 
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV" tvg-logo="https://i.postimg.cc/sj7nkRmg/Sundance-TV-2014-svg.png?dl=1" ,SundanceTV
-http://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162588
 
 #EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="HDNet Movies" tvg-logo="https://i.postimg.cc/fzV6rFty/HDNET-Movies-Logo.png?dl=1" ,HDNet Movies
 http://cord-cutter.net:8080/live/JoanP@112/443@112/16265.ts
 
 #EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US IFC " tvg-logo="https://i.postimg.cc/2j3ggt17/IFC-2014-logo-svg.png?dl=1" ,IFC 1080p 
-#http://cord-cutter.net:8080/kbc223@gmail.com/kbc223@2023/9272
+#http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162707
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/z864Smbs/IFC-FP.png?dl=1" ,IFC Film Picks
@@ -103,47 +109,47 @@ https://amc-ifc-films-picks-1-us.tablo.wurl.tv/playlist.m3u8
 http://fl12.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us"  tvg-logo="https://i.postimg.cc/cZMKJ558/Showtime-svg.png?dl=1" ,Showtime
-http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162579
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-name="Showtime 2" tvg-logo="https://i.postimg.cc/FmgfKnnL/Showtime-2-svg.png?dl=1" ,Showtime 2
-http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162733
 #EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://i.postimg.cc/QskBMnnK/Showtime-Extreme-svg.png?dl=1" ,Showtime Extreme
-http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162734
 #EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://i.postimg.cc/gdqw0BBX/Showtime-Next-svg.png?dl=1" ,Showtime Next
-http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162735
 
 #EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="https://i.imgur.com/rKtJP8R.png" ,BBC America
-http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#
 
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="SYFY" tvg-logo="https://i.imgur.com/JibAOLe.png" ,Syfy
-http://fl1.moveonjoy.com/SYFY/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162589
 
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="COMET" tvg-logo="https://i.postimg.cc/817Cjgvj/Comet-logo-svg.png?dl=1" ,Comet
-#https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-http://fl1.moveonjoy.com/COMET/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162672
 
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" ,TNT
-#https://fl1.moveonjoy.com/TNT/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162593
 
 #EXTINF:-1 tvg-id="TV.Land.-.Eastern.us" tvg-name="TVLand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/640px-TV_Land_2015_logo.svg.png" ,TVLand
-http://fl12.moveonjoy.com/TV_LAND/index.m3u8
+#
 
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="https://i.postimg.cc/Mx1NyCD6/CMT.png?dl=1" ,CMT
-http://fl1.moveonjoy.com/CMT/index.m3u8
+#
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/The_Movie_Channel_2006_alternate.png",The Movie Channel
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/The_Movie_Channel_2006_alternate.png",The Movie Channel
+http://104.255.88.155/tmc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/jmudbCz.png" ,Comedy Central
-http://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162526
 
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://i.postimg.cc/vYXdJ93b/Cartoon-Network-2010-logo-svg.png?dl=1" ,Cartoon Network USA
-http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9858
 
 #EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" ,Smithsonian Channel
-#http://streamsy.online:2999/happy2024/newyear/518
-http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45866
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 #http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+
 
 
 
