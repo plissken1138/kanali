@@ -56,7 +56,7 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="actionmax.us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ACTION MAX
 #http://supersonictv.live:8080/live/144264/661943/22881.ts
 
-#EXTINF:-1 tvg-id="Silver.Screen.Classics.ca2" tvg-name="CAN-Silver Screen Classics (M)(720)" ,CAN-Silver Screen Classics (M)(720)
+#EXTINF:-1 tvg-id="Silver.Screen.Classics.ca2" tvg-name="CAN-Silver Screen Classics (M)(720)" ,Silver Screen Classics
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45865
 
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX" tvg-logo="https://i.postimg.cc/fDrbWXvV/FX-International-logo-svg.png?dl=1" ,FX
@@ -94,13 +94,16 @@ http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-id="5263332f746c6b1bed25aa6c105a79d9" tvg-name="MGM Presents" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png" group-title="Movies",MGM Presents
 https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
 
-#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV" tvg-logo="https://i.postimg.cc/sj7nkRmg/Sundance-TV-2014-svg.png?dl=1" ,SundanceTV
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV (NC)" tvg-logo="https://i.postimg.cc/sj7nkRmg/Sundance-TV-2014-svg.png?dl=1" ,SundanceTV
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162588
 
 #EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="HDNet Movies" tvg-logo="https://i.postimg.cc/fzV6rFty/HDNET-Movies-Logo.png?dl=1" ,HDNet Movies
 http://cord-cutter.net:8080/live/JoanP@112/443@112/16265.ts
 
-#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US IFC " tvg-logo="https://i.postimg.cc/2j3ggt17/IFC-2014-logo-svg.png?dl=1" ,IFC 1080p 
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel (NC)" group-title="Movies",The Movie Channel
+http://104.255.88.155/tmc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IFC.HD.us2 " tvg-name="US IFC " tvg-logo="https://i.postimg.cc/2j3ggt17/IFC-2014-logo-svg.png?dl=1" ,IFC 1080p 
 #http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162707
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
@@ -137,9 +140,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162593
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="https://i.postimg.cc/Mx1NyCD6/CMT.png?dl=1" ,CMT
 #
 
-#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/The_Movie_Channel_2006_alternate.png",The Movie Channel
-http://104.255.88.155/tmc/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/jmudbCz.png" ,Comedy Central
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162526
 
@@ -151,6 +151,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45866
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 #http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+
 
 
 
